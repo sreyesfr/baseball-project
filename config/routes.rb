@@ -1,4 +1,13 @@
 Rails.application.routes.draw do
+  resources :statuses
+  resources :player_statuses
+  resources :users
+  resources :general_managers
+  resources :managers
+  resources :teams
+  resources :players
+  resources :tags
+  resources :articles
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

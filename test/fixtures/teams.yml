@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  abreviation: MyString
+  city: MyString
+  state: MyString
+  salary_cap: 1
+
+two:
+  name: MyString
+  abreviation: MyString
+  city: MyString
+  state: MyString
+  salary_cap: 1
